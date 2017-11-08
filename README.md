@@ -1,7 +1,7 @@
 # southern-lights-client
 A node client for accessing a southern-lights-server and controlling GPIO accessories via websockets.
 
-![southern-lights-client-logo]()
+![southern-lights-client-logo](https://github.com/ianfoose/southern-lights-client/blob/master/southern-lights.jpg)
 
 ## Install
 
