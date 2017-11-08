@@ -1,4 +1,4 @@
-# southern-lights-client
+# Southern Lights Client
 A node client for accessing a southern-lights-server and controlling GPIO accessories via websockets.
 
 ![southern-lights-client-logo](https://github.com/ianfoose/southern-lights-client/blob/master/southern-lights.jpg)
