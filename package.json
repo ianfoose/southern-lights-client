@@ -1,0 +1,21 @@
+{
+  "name": "lights_client",
+  "version": "1.0.0",
+  "description": "client for connected to the server to control the GPIO pins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lights",
+    "gpio",
+    "sockets",
+    "api"
+  ],
+  "author": "Ian Foose",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^1.1.8",
+    "websocket": "^1.0.25"
+  }
+}
