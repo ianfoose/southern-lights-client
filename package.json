@@ -1,6 +1,6 @@
 {
-  "name": "lights_client",
-  "version": "1.0.0",
+  "name": "southern_lights_client",
+  "version": "1.0.1",
   "description": "client for connected to the server to control the GPIO pins",
   "main": "index.js",
   "scripts": {
