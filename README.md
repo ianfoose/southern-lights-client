@@ -1,7 +1,7 @@
 # About
 A node client for accessing a southern-lights-server and controlling GPIO accessories via websockets.
 
-![southern-lights-client-logo](https://fooseindustries.com/hosted/southern-lights.jpg)
+![sputhern-lights-logo](/southern-lights.jpg)
 
 ## Install
 
